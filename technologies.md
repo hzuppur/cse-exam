@@ -12,9 +12,9 @@
 
 # Clients
 
-- TortoiseHG:
-- Sublime Merge:
-- Gitx:
+- TortoiseHG: https://tortoisehg.bitbucket.io/
+- Sublime Merge: https://www.sublimemerge.com/
+- Gitx: http://gitx.frim.nl/
 
 # Installers
 

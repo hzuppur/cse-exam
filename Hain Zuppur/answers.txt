@@ -1,0 +1,12 @@
+1. How many commits are in this repository (in total; in all branches)?
+81 commits in total.
+Used: git rev-list --all --count
+
+
+2. When was the line #10 in the file index.html last changed and who is the author of that commit?
+Stepan Bolotnikov 2018-05-07 19:17:18
+Used: git blame index.html
+
+3. What is the commit message of the commit with the hash 865cbc8?
+Added travis config file
+Used: git log --format=%B -n 1 865cbc8
